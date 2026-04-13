@@ -1,12 +1,9 @@
-Got you 👍 — here’s a **proper README you can directly copy-paste** with **better feature explanations** (clean, no extra stuff, no names).
-
----
 
 # 🎥 Namaste YouTube
 
 A YouTube-like application built using React that replicates core functionalities such as video browsing, search, and interactive UI components.
 The project focuses on building scalable frontend architecture and optimizing performance.
-
+##Live Link : https://namste-youtube.vercel.app/
 ---
 
 ## 🚀 Features
@@ -131,11 +128,3 @@ npm start
 
 This project is for learning purposes only.
 
----
-
-If you want next level 🚀
-I can also add:
-
-* GitHub badges
-* Screenshot section
-* Deployment link section (for portfolio)
