@@ -3,6 +3,7 @@
 
 A YouTube-like application built using React that replicates core functionalities such as video browsing, search, and interactive UI components.
 The project focuses on building scalable frontend architecture and optimizing performance.
+
 ##Live Link : https://namste-youtube.vercel.app/
 ---
 
