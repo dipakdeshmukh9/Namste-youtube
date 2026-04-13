@@ -18,7 +18,7 @@ const VideoCard = ({info}) => {
 
 export const AdVideoCard = ({ info }) => {
   return (
-    <div className="p-2 m-2 w-72 shadow-lg border-2 border-red-900">    
+    <div className="p-2 mr-4 w-72 pr-8 shadow-lg border border-red-900">    
     <VideoCard info={info}/>
     </div>
   )
